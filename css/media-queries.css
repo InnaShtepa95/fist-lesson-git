@@ -1,0 +1,167 @@
+@media only screen and (max-width: 1024px) {
+    .logo {
+        margin-left: 75px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .background .social_icon a {
+        width: 25px;
+
+    }
+
+    .background .social_icon a i {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+}
+
+
+@media only screen and (min-width: 667px) and (max-width: 767px){
+    .container{
+        max-width: 600px;
+    }
+    .container .container{
+        max-width: 550px;
+    }
+    footer{
+        padding-bottom: 250px;
+    }
+
+}
+@media only screen and (min-width: 375px) and (max-width: 666px){
+
+    .logo {
+        margin-left: 25px;
+    }
+
+    .logo img {
+        width: 70%;
+        height: 70%;
+    }
+
+    .container {
+        max-width: 330px;
+    }
+
+    .container h2 {
+        font-size: 15px;
+        padding: 10px 0 10px 8px;
+    }
+
+    .container .container {
+        max-width: 275px;
+        padding-top: 10px;
+
+    }
+
+    .background .social_icon a {
+        width: 20px;
+
+    }
+
+    .background .social_icon a i {
+        font-size: 15px;
+        line-height: 15px;
+
+    }
+    .container .player .video{
+        height: 190px;
+
+    }
+    .container .player .play_butt {
+        top: 75px;
+        left: 130px;
+
+
+    }
+    .container .player .play_butt a i{
+
+        font-size: 20px;
+    }
+    .container h4{
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .container p{
+        font-size: 12px;
+        line-height: 15px;
+        padding-bottom: 125px;
+    }
+    footer {
+        padding-bottom: 155px;
+    }
+
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 374px){
+    .logo {
+        margin-left: 25px;
+    }
+
+    .logo img {
+        width: 50%;
+        height: 50%;
+    }
+
+    .container {
+        max-width: 280px;
+    }
+
+    .container h2 {
+        font-size: 15px;
+        padding: 10px 0 10px 8px;
+    }
+
+    .container .container {
+        max-width: 275px;
+        padding-top: 10px;
+
+    }
+
+    .background .social_icon a {
+        width: 20px;
+
+    }
+
+    .background .social_icon a i {
+        font-size: 15px;
+        line-height: 15px;
+
+    }
+    .container .player .video{
+        height: 190px;
+
+    }
+    .container .player .play_butt {
+        top: 75px;
+        left: 130px;
+
+
+    }
+    .container .player .play_butt a i{
+
+        font-size: 20px;
+    }
+    .container h4{
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .container p{
+        font-size: 12px;
+        line-height: 15px;
+        padding-bottom: 125px;
+    }
+    footer {
+        padding-bottom: 155px;
+    }
+
+}
+
+
+
